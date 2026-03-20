@@ -1,7 +1,18 @@
-### AL ###
-#Template for AL projects for Dynamics 365 Business Central
-#launch.json folder
+# mac
+.DS_Store
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.venv/
+
+# vscode
 .vscode/
+<<<<<<< HEAD
 #Cache folder
 .alcache/
 #Symbols folder
@@ -22,3 +33,15 @@ rad.json
 TestResults.xml
 .DS_Store
 .DS_Store
+=======
+
+# data
+*.csv
+*.xlsx
+*.mat
+*.npz
+
+# build
+dist/
+build/
+>>>>>>> cbe41b6b60c216f4f60cca2cf6ccf4d4496e8331
