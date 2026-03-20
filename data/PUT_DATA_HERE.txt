@@ -1,0 +1,4 @@
+Place the dataset file here:
+
+- Expected path: data/vector_64.npy
+- Expected shape: (nt, 64, 64, 2)
